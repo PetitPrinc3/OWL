@@ -6,7 +6,7 @@ OWL will eventually be an Android remote access tool.
 
 | Phase | Programming Language | Comment | Starting Date | Status |
 | :-: | :-: | :-: | :-: | :-: |
-| Android APK (Calculator) | Python | Developping an easy app. | - | :hourglass: |
+| Android APK (Calculator) | Python | Developping an easy app. | 30/10/2022 | :yellow_circle: |
 | Android chat APK | Python | Understanding socket application (Reactive app) | - | :hourglass: |
 | Android chat APK | Java/Kotlin | Implementing everything in Java/Kotlin (learning) | - | :hourglass: |
 | Android RCE APK | Java/Kotlin | Transforming the messenging in a remote code execution tool | - | :hourglass: |
