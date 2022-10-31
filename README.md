@@ -1,6 +1,6 @@
 # OWL
 
-<img src="Logo/OWL.png" align="right" height="300px" style="border-radius: 100px; margin: 0; padding:0">
+<img src="Logo/OWL.png" align="right" height="300px">
 
 OWL will eventually be an Android remote access tool.
 
