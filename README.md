@@ -13,8 +13,8 @@ OWL will eventually be an Android remote access tool.
 | Phase | Programming Language | Comment | Starting Date | Status |
 | :-: | :-: | :-: | :-: | :-: |
 | [Android APK (Calculator)](https://github.com/G4vr0ch3/OWL/commit/176251806a135763d58382e14d45e14652bae026) | Python | Developping an easy app. | 30/10/2022 | :green_circle: |
-| Android APK (Calculator) | Java | Learning Java/Kotlin | 31/10/2022 | :green_circle: |
-| Android chat APK | Java/Kotlin | Developping a reacting app | - | :hourglass: |
+| [Android APK (Calculator)](https://github.com/G4vr0ch3/OWL/commit/2f957567811fe8ba51d5001710af5499c55d957f) | Java | Learning Java/Kotlin | 31/10/2022 | :green_circle: |
+| Android chat APK | Java/Kotlin | Developping a reacting app | 01/11/2022 | :orange_circle: |
 | Android RCE APK | Java/Kotlin | Transforming the messenging in a remote code execution tool | - | :hourglass: |
 | Android OWL APK | Java/Kotlin | Implementing functionnalities | - | :hourglass: |
 | Android wepponized OWL APK | Java/Kotlin | From tool to malware | - | :hourglass: |
