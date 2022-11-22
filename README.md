@@ -18,7 +18,7 @@ OWL will eventually be an Android remote access tool.
 | Android chat APK | Kotlin | Developping a reacting app | 05/11/2022 | :orange_circle: |
 | Android RCE APK | Kotlin | Transforming the messenging in a remote code execution tool | - | :hourglass: |
 | Android OWL APK | Kotlin | Implementing functionnalities | - | :hourglass: |
-| Android wepponized OWL APK | Java/Kotlin | From tool to malware | - | :hourglass: |
+| Android weaponized OWL APK | Java/Kotlin | From tool to malware | - | :hourglass: |
 
 ## Support
 
